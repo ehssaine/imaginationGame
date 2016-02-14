@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">132714628937</string>
+    <string name="app_name">Imagination Words Imagine Game</string>
+    <integer name="prueba">1234</integer>
+    <string name="package_name">net.appmarketapprentice.Imagination</string>
+    <string name="achievement_speed_reflexion">CgkIyY6is-4DEAIQAQ</string>
+    <string name="achievement_smart_brain">CgkIyY6is-4DEAIQAg</string>
+    <string name="achievement_whooa_memory">CgkIyY6is-4DEAIQAw</string>
+    <string name="achievement_xtraordinary">CgkIyY6is-4DEAIQBA</string>
+    <string name="achievement_great_brain">CgkIyY6is-4DEAIQBQ</string>
+    <string name="leaderboard_spelling_city_board">CgkIyY6is-4DEAIQAA</string>
+</resources>
